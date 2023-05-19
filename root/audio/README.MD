@@ -12,6 +12,7 @@ Some common file types are: `*.{raw,wav,flac,mp3,m4a,m4b,ogg,opus,aiff,aac}`
 | music       | music artists / bands                                        |
 | playlists   | radio streams, music playlists, ..                           |
 | podcasts    | audio-only broadcasts.. alternative name: `netcasts`         |
+| production  | audio content related to music production (samples, midi, presets, user projects, etc) |
 | recordings  | voice memos, studio recordings, usually RAW wave audio       |
 | soundfx     | audio effects like fire, crashes, screaming, clapping, etc.  |
 | soundtracks | audio content related to other media like movies, tv-shows and videogames |
