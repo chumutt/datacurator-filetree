@@ -2,23 +2,23 @@
 
 The root folder defines the entrypoint for whatever storage medium might be serving it.
 
-Usually people use an external drive, a network share exposed by a NAS or even bigger things like cluster shares.
+Usually people use an external drive, a network share exposed by a network-attached storage (NAS) or even bigger things like cluster shares.
 
-The *root* defines several /main sections/. These main sections allow for an easy seperation of content and should stay within a certain cognitive complexity.
+The *root* defines several /main sections/. These main sections allow for an easy separation of content and should stay within a certain cognitive complexity.
 
 ** Overview
 
-| Folder     | Contents                                                        |
-|------------+-----------------------------------------------------------------|
-| adult      | Adult content separated into own folder.                        |
-| archives   | Websites, Datasets, Backups & Dumps, ...                        |
-| audio      | Music, Sounds, Podcasts, Game Audio, ...                        |
-| documents  | Personal Documents (Invoices, Forms, Letters, ..)               |
-| images     | Art, Photography, Fanart                                        |
-| games      | boardgames, cardgames, videogames, arcade, virtual reality, ... |
-| literature | books, writings, scientific papers, articles, ...               |
-| software   | Computer Applications, Mobile Apps, Operating Systems           |
-| video      | Movies, Short Movies/Films, TV-Shows, ...                       |
+| folder     | contents                                                           |
+|------------+--------------------------------------------------------------------|
+| adult      | adult content separated into own folder.                           |
+| archives   | websites, datasets, backups & dumps, ...                           |
+| audio      | music, sounds, podcasts, game audio, ...                           |
+| documents  | personal documents (invoices, forms, letters, ..)                  |
+| images     | art, photography, fan art                                          |
+| games      | board games, card games, video games, arcade, virtual reality, ... |
+| literature | books, writings, scientific papers, articles, ...                  |
+| software   | computer applications, mobile apps, operating systems              |
+| video      | movies, short movies / films, tv shows, ...                        |
 
 ** General Advice
 
@@ -42,7 +42,7 @@ Here is a small (and incomplete) list of characters you should avoid (AKA "Forbi
 - /The List applies to all major operating systems./
 
 #+begin_example
-File Seperators:
+File Separators:
 : (colon)
 / (forward slash)
 \ (backward slash aka "backslash")
@@ -60,7 +60,7 @@ Punctuation marks, parentheses, quotation marks, brackets and operators:
 ' (single quote)
 | (vertical bar or pipe)
 ? (question mark)
-* (asterisk)
+,* (asterisk)
 
 Other, rather technical "characters":
 MultiSpace ("Foo.      Bar   .txt")
@@ -72,10 +72,8 @@ Embedded Returns
 
 * References:
 
-- [[https://superuser.com/a/1112140][Superuser StackExchange - How to
-  create folder name with special characters?]]
-- [[https://superuser.com/questions/326103/what-are-invalid-characters-for-a-file-name-under-os-x][Superuser
-  StackExchange - What are invalid characters for a file name under OS
-  X?]]
-- [[https://stackoverflow.com/a/31976060][StackOverflow - What
-  characters are forbidden in Windows and Linux directory names?]]
+- [[https://superuser.com/a/1112140][Superuser StackExchange - How to create folder name with special characters?]]
+
+- [[https://superuser.com/questions/326103/what-are-invalid-characters-for-a-file-name-under-os-x][Superuser StackExchange - What are invalid characters for a file name under OS X?]]
+
+- [[https://stackoverflow.com/a/31976060][StackOverflow - What characters are forbidden in Windows and Linux directory names?]]
