@@ -1,0 +1,9 @@
+* filetree
+
+[[https://reddit.com/r/datacurator][r/datacurator]] filetree repository.
+
+unified filetree for all kinds of data, which should help in storing, categorising and retrieving.
+
+** contributing
+
+If you are interested in joining their efforts, please read [[CONTRIBUTING.org][CONTRIBUTING.org]].
