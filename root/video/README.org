@@ -1,0 +1,11 @@
+* video
+
+** Content
+
+movies, movie shorts, music videos, TV shows, documentaries, learning/tutorials, webisodes, DVD extras (making-of, behind the scenes), real-life recordings, vlogs, let's plays, YTP/YTPMV, etc.
+
+** Resources
+
+- https://kodi.wiki/view/Naming_video_files/Movies
+
+- https://support.plex.tv/articles/categories/media-preparation/
