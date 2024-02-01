@@ -1,21 +1,13 @@
 * root
-:PROPERTIES:
-:CUSTOM_ID: root
-:END:
-The root folder defines the entrypoint for whatever storage medium might
-be serving it.
 
-Usually people use an external drive, a network share exposed by a NAS
-or even bigger things like cluster shares.
+The root folder defines the entrypoint for whatever storage medium might be serving it.
 
-The *root* defines several /main sections/. These main sections allow
-for an easy seperation of content and should stay within a certain
-cognitive complexity.
+Usually people use an external drive, a network share exposed by a NAS or even bigger things like cluster shares.
+
+The *root* defines several /main sections/. These main sections allow for an easy seperation of content and should stay within a certain cognitive complexity.
 
 ** Overview
-:PROPERTIES:
-:CUSTOM_ID: overview
-:END:
+
 | Folder     | Contents                                                        |
 |------------+-----------------------------------------------------------------|
 | adult      | Adult content separated into own folder.                        |
@@ -29,32 +21,22 @@ cognitive complexity.
 | video      | Movies, Short Movies/Films, TV-Shows, ...                       |
 
 ** General Advice
-:PROPERTIES:
-:CUSTOM_ID: general-advice
-:END:
-In this Section we want to give you some general advice on things you
-should be aware of.
 
-These are optional and sometimes biased. If you do not agree to them -
-be it partially or completely - just ignore this part.
+In this Section we want to give you some general advice on things you should be aware of.
+
+These are optional and sometimes biased. If you do not agree to them - be it partially or completely - just ignore this part.
 
 *** Naming Files and Folders
-:PROPERTIES:
-:CUSTOM_ID: naming-files-and-folders
-:END:
+
 1. Naming in General
 
-Naming is hard. We know that. You want everything neat and tidy, but
-sometimes things just don't go that way - and that is perfectly fine.
-*Don't be afraid to break the rules and adjust this tree to your needs.*
+Naming is hard. We know that. You want everything neat and tidy, but sometimes things just don't go that way - and that is perfectly fine. *Don't be afraid to break the rules and adjust this tree to your needs.*
 
 2. Technical Issues
 
-Some systems simply do not allow certain characters, some others do not
-play nice with them.
+Some systems simply do not allow certain characters, some others do not play nice with them.
 
-Here is a small (and incomplete) list of characters you should avoid
-(AKA "Forbidden Characters")
+Here is a small (and incomplete) list of characters you should avoid (AKA "Forbidden Characters")
 
 - /Please use this list as a general rule of thumb./
 - /The List applies to all major operating systems./
