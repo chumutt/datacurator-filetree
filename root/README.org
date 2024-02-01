@@ -22,17 +22,17 @@ The *root* defines several /main sections/. These main sections allow for an eas
 
 ** General Advice
 
-In this Section we want to give you some general advice on things you should be aware of.
+In this section we want to give you some general advice on things you should be aware of.
 
 These are optional and sometimes biased. If you do not agree to them - be it partially or completely - just ignore this part.
 
 *** Naming Files and Folders
 
-1. Naming in General
+**** Naming in General
 
 Naming is hard. We know that. You want everything neat and tidy, but sometimes things just don't go that way - and that is perfectly fine. *Don't be afraid to break the rules and adjust this tree to your needs.*
 
-2. Technical Issues
+**** Technical Issues
 
 Some systems simply do not allow certain characters, some others do not play nice with them.
 
@@ -70,7 +70,7 @@ NUL (integer value zero)
 Embedded Returns
 #+end_example
 
-References:
+* References:
 
 - [[https://superuser.com/a/1112140][Superuser StackExchange - How to
   create folder name with special characters?]]
