@@ -48,7 +48,7 @@ Naming is hard. We know that. You want everything neat and tidy, but
 sometimes things just don't go that way - and that is perfectly fine.
 *Don't be afraid to break the rules and adjust this tree to your needs.*
 
-2. [@2] Technical Issues
+2. Technical Issues
 
 Some systems simply do not allow certain characters, some others do not
 play nice with them.
