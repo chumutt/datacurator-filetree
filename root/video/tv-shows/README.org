@@ -27,6 +27,8 @@ Still talking about the United States: A television /"series"/ is /all/ of the s
 
 In the UK, the terminology is different. They use "series" to mean what those in the US would call "seasons." In the UK they'd say that Lady Mary had a baby in "series three" of Downton Abbey; in the US, they'd say the scene happened in "season three." /Program/ is also (usually) the daily schedule of the broadcasting station.
 
+Unique to anime is the "cour" division of time, which includes the spring and fall broadcast of an anime.
+
 | Naming                   | EU/UK    | US      | JP (Anime)                    |
 |--------------------------+----------+---------+-------------------------------|
 | The whole thing          | programs | shows   | tv-shows                      |
