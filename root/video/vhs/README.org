@@ -1,0 +1,3 @@
+* VHS
+
+for plain VHS dumps of movies, TV shows, documentaries, etc.
