@@ -29,17 +29,37 @@ Please feel free to create your own pattern, by reading through the many forum p
 
 *** Music
 
-+ A Regular Album with a Single Disc ::  %A - %T (%y) [%f]/%n - %t
-  - ARTIST/ARTIST - ALBUM (YEAR) [FORMAT]/TRACKNR - TRACKTITLE
+#+name: A Regular Album with a Single Disc
+#+begin_src
+%A - %T (%y) [%f]/%n - %t
+#+end_src
+#+begin_example
+ARTIST/ARTIST - ALBUM (YEAR) [FORMAT]/TRACKNR - TRACKTITLE
+#+end_example
 
-+ A Regular Album with Multiple Discs :: %A - %T (%y) [%f]/Disc %D/%n - %t
-  - ARTIST/ARTIST - ALBUM (YEAR) [FORMAT]/CD N/TRACKNR - TRACKTITLE
+#+name: A Regular Album with Multiple Discs
+#+begin_src
+%A - %T (%y) [%f]/Disc %D/%n - %t
+#+end_src
+#+begin_example
+ARTIST/ARTIST - ALBUM (YEAR) [FORMAT]/CD N/TRACKNR - TRACKTITLE
+#+end_example
 
-+ A Single-Disc Compilation Album :: %A - %T (%y) [%f]/%n - %a - %t
-  - ALBUM_ARTIST/ALBUM_ARTIST - ALBUM (YEAR) [FORMAT]/TRACKNR - ARTIST - TRACKTITLE
+#+name: A Single-Disc Compilation Album
+#+begin_src
+%A - %T (%y) [%f]/%n - %a - %t
+#+end_src
+#+begin_example
+ALBUM_ARTIST/ALBUM_ARTIST - ALBUM (YEAR) [FORMAT]/TRACKNR - ARTIST - TRACKTITLE
+#+end_example
 
-+ A Multi-Disc Compilation Album ::  %A - %T (%y) [%f]/Disc %D/%n - %a - %t
-  - ALBUM_ARTIST/ALBUM_ARTIST - ALBUM (YEAR) [FORMAT]/CD N/TRACKNR - ARTIST - TRACKTITLE
+#+name: A Multi-Disc Compilation Album
+#+begin_src
+%A - %T (%y) [%f]/Disc %D/%n - %a - %t
+#+end_src
+#+begin_quote
+ALBUM_ARTIST/ALBUM_ARTIST - ALBUM (YEAR) [FORMAT]/CD N/TRACKNR - ARTIST - TRACKTITLE
+#+end_quote
 
 *** TODO Podcasts, Soundtracks, Playlists, etc
 
