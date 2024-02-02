@@ -2,11 +2,11 @@
 
 ** Content
 
-The audio section contains any kind of sound that is contained within a file - such as music, sounds, sound effects, podcasts, audiobooks, event recordings (musicals, concerts, standup comedy), games and many others.
+The audio section contains any kind of sound that is contained within a file - such as music, sounds, sound effects, podcasts, audiobooks, event recordings (musicals, concerts, stand-up comedy), official soundtracks (OSTs), video game music (VGM), and many others.
 
 Some common file types are:
 
-=*.{raw,wav,flac,mp3,m4a,m4b,ogg,opus,aiff,aac}=
+=*.{raw,wav,flac,mp3,m4a,m4b,ogg,opus,aiff,aac,midi}=
 
 ** Sub-Sections
 
@@ -30,32 +30,28 @@ Please feel free to create your own pattern, by reading through the many forum p
 *** Music
 
 **** A Regular Album with a Single Disc
-#+begin_src
-%A - %T (%y) [%f]/%n - %t
-#+end_src
-#+begin_example
-ARTIST/ARTIST - ALBUM (YEAR) [FORMAT]/TRACKNR - TRACKTITLE
-#+end_example
+
+~%A - %T (%y) [%f]/%n - %t~
+
+gives you =ARTIST/ARTIST - ALBUM (YEAR) [FORMAT]/TRACKNR - TRACKTITLE=
 
 **** A Regular Album with Multiple Discs
-#+begin_src
-%A - %T (%y) [%f]/Disc %D/%n - %t
-#+end_src
-#+begin_example
-ARTIST/ARTIST - ALBUM (YEAR) [FORMAT]/CD N/TRACKNR - TRACKTITLE
-#+end_example
+
+~%A - %T (%y) [%f]/Disc %D/%n - %t~
+
+gives you =ARTIST/ARTIST - ALBUM (YEAR) [FORMAT]/CD N/TRACKNR - TRACKTITLE=
 
 **** A Single-Disc Compilation Album
 
 ~%A - %T (%y) [%f]/%n - %a - %t~
 
-=ALBUM_ARTIST/ALBUM_ARTIST - ALBUM (YEAR) [FORMAT]/TRACKNR - ARTIST - TRACKTITLE=
+gives you =ALBUM_ARTIST/ALBUM_ARTIST - ALBUM (YEAR) [FORMAT]/TRACKNR - ARTIST - TRACKTITLE=
 
 **** A Multi-Disc Compilation Album
 
 ~%A - %T (%y) [%f]/Disc %D/%n - %a - %t~
 
-=ALBUM_ARTIST/ALBUM_ARTIST - ALBUM (YEAR) [FORMAT]/CD N/TRACKNR - ARTIST - TRACKTITLE=
+gives you =ALBUM_ARTIST/ALBUM_ARTIST - ALBUM (YEAR) [FORMAT]/CD N/TRACKNR - ARTIST - TRACKTITLE=
 
 *** TODO Podcasts, Soundtracks, Playlists, etc
 
