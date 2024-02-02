@@ -41,5 +41,3 @@ Unique to anime is the "cour" division of time, which includes the spring and fa
 - [[https://www.quora.com/What-is-the-difference-between-a-TV-series-and-a-TV-show][What is the difference between a TV series and a TV show? - Quora]]
 
 - [[https://epicstream.com/article/what-is-a-cour-vs-a-season-in-anime-differences-and-terminology-explained][What is a Cour vs a Season in Anime? Differences and Terminology Explained]]
-
-* TODO find a structure that either squashes one into the other, or keep it separate.
