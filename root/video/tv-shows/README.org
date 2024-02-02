@@ -1,0 +1,43 @@
+** tv-shows
+
+things for you to consider:
+
+- Merging TV series with /anime/ and /animated/ content (a.k.a. /cartoons/, since they are both broadcast on national TV as well as on video-on-demand (VOD) services.
+
+- Internationalized names vs. localized names ('Shingeki No Kyojin' vs 'Attack on Titan')
+
+- CAN be split further if people like to split their libraries (anime/cartoon/TV/childrens/...)
+
+- Appending years is almost always a good idea (as with movies) - there might be multiple variants (matching with DB seems to be a bit off though).
+
+There is a good reason why anime is often split—because the naming differs in a kinda uncomfortable way. See /Attack on Titan/ for example: season 2 is actually considered a new series and just named as "season 2," but at the same time the episode count just keeps going up instead of being reset. BBC's /Sherlock/, on the other hand, has a classic season/episode structure that is much easier to follow.
+
+
+--------------
+
+Also to keep in mind:
+
+In the United States, a /TV show/ is a /single episode/ of television. Both /The X Factor/ and /Friends/ are comprised of /shows/. /Friends/ has half hour television /shows/. /The X Factor/ generally has one hour /shows/. There may be longer shows due to a season finale or special event. The broadcast of the Super Bowl is a TV show that lasts many hours.
+
+To confuse matters a bit, /"show"/ may also be used as a collective noun to describe /all/ of the episodes of a program. /Friends/ is a /show/. /The X Factor/ is a /show/. The /individual/ airings/episodes of /Friends/ and /The X Factor/ can also be called /shows/.
+
+Again in the United States, a television "season" is a grouping of television episodes. The season is often delineated by a time period. A typical situation comedy in the US (like /Friends/) is a collection of 22 or 24 shows, initially broadcast/aired over the course of several months (often September of one year to May of the next year, but there are many exceptions to this). A television season could also be a group of shows/episodes released all at once, like Netflix offering a season of /House of Cards/ all at the same time.
+
+Still talking about the United States: A television /"series"/ is /all/ of the shows (episodes) of a program. /Friends/ is a TV /series/ (show) which had 236 episodes broadcast over 10 seasons.
+
+In the UK, the terminology is different. They use "series" to mean what those in the US would call "seasons." In the UK they'd say that Lady Mary had a baby in "series three" of Downton Abbey; in the US, they'd say the scene happened in "season three." /Program/ is also (usually) the daily schedule of the broadcasting station.
+
+| Naming                   | EU/UK    | US      | JP (Anime)                    |
+|--------------------------+----------+---------+-------------------------------|
+| The whole thing          | programs | shows   | tv-shows                      |
+| bundles of ~20+ Episodes | series   | seasons | seasons                       |
+| 1/2 of a bundle          | parts    | parts   | cour (spring/fall broadcast)  |
+
+
+** References
+
+- [[https://www.quora.com/What-is-the-difference-between-a-TV-series-and-a-TV-show][What is the difference between a TV series and a TV show? - Quora]]
+
+- [[https://epicstream.com/article/what-is-a-cour-vs-a-season-in-anime-differences-and-terminology-explained][What is a Cour vs a Season in Anime? Differences and Terminology Explained]]
+
+* TODO find a structure that either squashes one into the other, or keep it separate.
