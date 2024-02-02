@@ -44,6 +44,7 @@ Please feel free to create your own pattern, by reading through the many forum p
 *** TODO Podcasts, Soundtracks, Playlists, etc
 
 ** Resources
+
 - https://musicbrainz.org/ - A community-maintained music metadata database.
 
 - https://www.discogs.com/ - A database and marketplace for music.
