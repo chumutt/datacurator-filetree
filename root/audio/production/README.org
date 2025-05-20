@@ -1,0 +1,41 @@
+* production
+:PROPERTIES:
+:CUSTOM_ID: production-folder
+:END:
+** Content
+:PROPERTIES:
+:CUSTOM_ID: production-content
+:END:
+The production folder contains any kinds of sounds, presets, MIDI files, user projects, etc. used in music production. It is distinct from the /recordings/ folder as it contains /processed audio/ that is not being used as an asset (stem, track, etc) in a music or audio-related production.
+
+** Sub-Sections
+:PROPERTIES:
+:CUSTOM_ID: sub-sections
+:END:
+| Folder       | Contents                                                                                                           |
+|--------------+--------------------------------------------------------------------------------------------------------------------|
+| sample-packs | full, downloaded sample packs sorted by type (if any)                                                              |
+| midi         | full, downloaded MIDI packs (not user-made) and sorted by company who makes them                                   |
+| presets      | things like synth patches. *keep presets and preset packs in your plugins /native folder/*. otherwise, put em here |
+| sounds       | for random individual sounds                                                                                       |
+| samples      | for random individual samples                                                                                      |
+| ir           | impulse responses                                                                                                  |
+| user-samples | user-made audio samples                                                                                            |
+| user-midi    | user-made MIDI files sorted by intended use                                                                        |
+| user-presets | user-made presets (sorted by type (?)) either for virtual instruments or synth racks                               |
+| user-sounds  | user-made random individual sounds (only if they aren't strictly samples)                                          |
+| user-ir      | user-made impulse responses (sort by type (i.e., captured environment))                                            |
+| user-projects | user's projects, see the [[file:userprojects/README.org][readme]]                                                 |
+** Patterns
+:PROPERTIES:
+:CUSTOM_ID: patterns
+:END:
+
+** Resources
+:PROPERTIES:
+:CUSTOM_ID: resources
+:END:
+References:
+- [[https://www.edmprod.com/file-sample-organization/#the-file-organization-process][The Producer's Guide to File & Sample Organization - EDMProd]]
+- [[https://www.adsrsounds.com/product/software/adsr-sample-manager/][ADSR Sample Manager]]
+- [[https://www.sononym.net/][Sononym]] smart categorisation of samples with folder export-ability
